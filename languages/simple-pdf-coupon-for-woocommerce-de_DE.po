@@ -1,0 +1,127 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Simple PDF Coupon for Woocommerce\n"
+"POT-Creation-Date: 2021-04-16 09:05+0200\n"
+"PO-Revision-Date: 2021-04-16 09:06+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: simple-pdf-coupon-for-woocommerce.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+"X-Poedit-SearchPathExcluded-1: vendor\n"
+
+#: inc/inc-backend.php:11 inc/inc-backend.php:12
+msgid "Simple PDF Coupons"
+msgstr ""
+
+#: inc/inc-backend.php:27
+msgid "Thank you for your order"
+msgstr ""
+
+#: inc/inc-backend.php:30
+msgid "Link"
+msgstr ""
+
+#: inc/inc-backend.php:55
+msgid "Simple Coupons for WooCommerce Settings"
+msgstr "Simple Coupons for WooCommerce Einstellungen"
+
+#: inc/inc-backend.php:57
+msgid "If you have any questions, write to: office@lemontec.at"
+msgstr "Bei Fragen bitte an office@lemontec.at wenden"
+
+#: inc/inc-backend.php:60
+msgid "Coupon settings"
+msgstr "Gutschein Einstellungen"
+
+#: inc/inc-backend.php:66
+msgid "URL to Coupon Sujet"
+msgstr "URL zu Gutschein-Sujet"
+
+#: inc/inc-backend.php:70
+msgid "Maximum coupon value"
+msgstr "Maximaler Gutscheinbetrag"
+
+#: inc/inc-backend.php:74
+msgid "Text in mail and on thankyou page"
+msgstr "Button-Text auf der Vielen Dank Seite und in den Bestellmails"
+
+#: inc/inc-backend.php:75
+msgid "Thank you for your order."
+msgstr "Vielen Dank für deine Bestellung."
+
+#: inc/inc-backend.php:78
+msgid "Button text in mail and on thankyou page"
+msgstr "Button-Text auf der Vielen Dank-Seite und in den Bestellmails"
+
+#: inc/inc-backend.php:79
+msgid "Here is the link to your voucher."
+msgstr "Hier der Gutschein Link."
+
+#: inc/inc-backend.php:83
+msgid "Container for price and coupon number"
+msgstr "Container für Preis, persönlichen Gruß und Gutscheinnummer"
+
+#: inc/inc-backend.php:86
+msgid "Top"
+msgstr ""
+
+#: inc/inc-backend.php:90
+msgid "Position horizontal"
+msgstr ""
+
+#: inc/inc-backend.php:96
+msgid "Font Size Price"
+msgstr "Schriftgröße Gutscheinwert"
+
+#: inc/inc-backend.php:102
+msgid "Font Size Greeting"
+msgstr "Schriftgröße persönlicher Gruß"
+
+#: inc/inc-backend.php:108
+msgid "Font Size Coupon Number"
+msgstr "Schriftgröße Gutscheinnummer"
+
+#: simple-pdf-coupon-for-woocommerce.php:136
+msgid "Value"
+msgstr "Wert"
+
+#: simple-pdf-coupon-for-woocommerce.php:142
+msgid "Personal greeting"
+msgstr "Persönlicher Gruß"
+
+#: simple-pdf-coupon-for-woocommerce.php:320
+msgid "Add to cart"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Simple PDF Coupon for Woocommerce"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "https://lemontec.at"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "WooCommerce Simple PDF Coupon module to create PDF coupons"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "LEMONTEC"
+msgstr ""
+
+#~ msgid "Information text in mail and on thankyou page"
+#~ msgstr "Informationstext auf der Vielen Dank-Seite und in den Bestellmails"
